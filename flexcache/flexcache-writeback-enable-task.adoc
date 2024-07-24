@@ -15,7 +15,7 @@ When writeback is enabled on the cache volume, write requests are sent to the lo
 
 
 .Before you begin
-You must be in advanced privilege mode.
+You must be in advanced privilege mode. Both the origin system and the FlexCache system must be running ONTAP 9.15.1 or higher.
 
 == Create a new FlexCache volume with writeback enabled
 
